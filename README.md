@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Shraddha Gavade
 
 🎓 Computer Science graduate passionate about building real-world software solutions.  
-💻 Currently working as a **Java Developer Trainee at Halcayer Tech**, where I am developing and integrating a **Stripe Payment Gateway** module for secure online payments.  
+💻 Currently working as a **Java Developer Trainee at Hulk Hire Tech**, where I am developing and integrating a **Stripe Payment Gateway** module for secure online payments.  
 🚀 A self-motivated learner who enjoys exploring new technologies and improving problem-solving skills through coding and hands-on projects.
 
 ---
